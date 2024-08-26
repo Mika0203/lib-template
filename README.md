@@ -1,4 +1,4 @@
-# jaso-utils
+# utils
 
 To install dependencies:
 
